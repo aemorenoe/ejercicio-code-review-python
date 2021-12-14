@@ -1,4 +1,6 @@
 # This is a sample Python script.
+'''comentarios:
+Incrementar un try exception en el caso de que se ingresese una opción incorrecta'''
 from calculadora import calculadora
 from distancia import distancia
 from gasolinera import gasolinera
